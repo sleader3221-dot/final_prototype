@@ -33,8 +33,7 @@ docker compose down
 
 ## What is NiveshAI?
 
-A beginner-friendly stock portfolio tool built for the **Fidelity Hackathon 2026**. 
-It helps first-time investors:
+A beginner-friendly stock portfolio tool for first-time investors. It helps you:
 - Know how much to invest (50/30/20 rule)
 - See BUY/SELL signals explained in plain language
 - Build and track a virtual portfolio
