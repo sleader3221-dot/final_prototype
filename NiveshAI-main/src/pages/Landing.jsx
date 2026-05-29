@@ -151,7 +151,7 @@ export default function Landing() {
           <motion.div initial={{ opacity: 0, y: 40 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}>
             <div className="inline-flex items-center gap-2 mb-6 px-4 py-2 rounded-full border border-cyan/20 bg-cyan/5 text-cyan text-sm font-medium">
               <Sparkles className="w-4 h-4" />
-              🏆 Fidelity — Problem Statement #1
+              🏆 
             </div>
 
             <h1 className="text-5xl md:text-7xl font-space font-bold leading-[1.05] tracking-tight">
@@ -315,7 +315,7 @@ export default function Landing() {
 
       {/* Footer */}
       <footer className="py-8 px-6 border-t border-white/5 text-center text-sm text-white/25">
-        <p>NIVESH AI — Built for Fidelity Hackathon | AI-Powered Stock Learning Platform</p>
+        <p>NIVESH AI — AI-Powered Stock Learning Platform</p>
         <p className="mt-1">Virtual platform for educational purposes only. Not financial advice.</p>
       </footer>
     </div>
